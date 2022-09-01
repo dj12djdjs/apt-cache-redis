@@ -14,4 +14,4 @@ jobs:
       - uses: awalsh128/cache-apt-pkgs-action@latest
         with:
           packages: redis-server
-          version: 1.0
+          version: dev
